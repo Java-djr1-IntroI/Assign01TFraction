@@ -40,9 +40,9 @@ Here is exactly what your program is to output (asterisks and all), and
 user input is in **bold**:
 
 <pre>
-***********************
-* Fraction Calculator *
-***********************
+************************
+* Fraction Calculator  *
+************************
 
 Enter Fraction #1: <b>1 / 2</b>
 Enter Fraction #2: <b>2 / 3</b>
