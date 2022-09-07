@@ -44,8 +44,8 @@ user input is in **bold**:
 * Fraction Calculator *
 ***********************
 
-Enter Fraction #1: <b>1/2</b>
-Enter Fraction #2: <b>2/3</b>
+Enter Fraction #1: <b>1 / 2</b>
+Enter Fraction #2: <b>2 / 3</b>
 
 1/2 + 2/3 = 7/6
 
